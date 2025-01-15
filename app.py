@@ -52,7 +52,6 @@ def display_verification_status(status):
         return "⏳ Pending"
 
 def main():
-    st.title("User Verification Status")
     
     # Username input
     username = st.text_input("Enter your username:")
