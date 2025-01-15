@@ -1,0 +1,4 @@
+streamlit
+asyncpg
+python-dotenv
+asyncio
