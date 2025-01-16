@@ -1,4 +1,7 @@
 streamlit
 asyncpg
 python-dotenv
+requests
+groq
+fuzzywuzzy
 asyncio
